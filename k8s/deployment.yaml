@@ -25,10 +25,10 @@ spec:
         - name: Vless_UUID
           value: "0f052862-d311-4308-bdda-5471b841830b"
         - name: Vless_Path
-          value: "/9fb5794e-535c-4282-8b75-e593e20e264f-vless"
+          value: "/0f052862-d311-4308-bdda-5471b841830b-vless"
         - name: Vmess_UUID
           value: "0f052862-d311-4308-bdda-5471b841830b"
         - name: Vmess_Path
-          value: "/9fb5794e-535c-4282-8b75-e593e20e264f-vmess"
+          value: "/0f052862-d311-4308-bdda-5471b841830b-vmess"
         - name: Share_Path
           value: "/zzeenk"
